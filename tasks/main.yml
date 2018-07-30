@@ -1,0 +1,5 @@
+---
+- include: deployment.yml
+- include: config.yml
+- include: systemd.yml
+  # tasks file for roles/matrix-sydent
